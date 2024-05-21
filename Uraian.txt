@@ -1,0 +1,9 @@
+1. Servo menerima sinyal input dari kontrol, lalu menggerakan poros keluaran sesuai dengan inputan yang diberikan.
+2. LCD menampilkan visual sesuai yang diminta dari program, dengan insialisasi pin pin seperti SDA dan lainnya.
+3. Contoh penggunaan sistem tertanam pada kehidupan sehari hari : 
+a. Sistem Kunci Otomatis, pintu dapat dikunci dan dibuka secara otomatis melalui sensor yang ada dan dapat diatur melalui perangkat lain
+b. Pengatur Suhu Ruangan, menggunakan mikrocontroller untuk mengatur ruangan sesuai suhu yang diinginkan
+c. Lampu Pintar, implementasi untuk menghidupkan dan mematikan lampu dengan sensor sensor seperti sensor cahaya, suara dan lainnya.
+d. ATM , menggunakan sensor untuk mendeteksi kartu
+e. Mesin karcis, implementasi untuk sistem karcis secara otomatis
+4. Membuat Sistem Alarm Pintu, dengan menggunakan sensor jarak, akan memberikan alert kepada pengguna ketika pintu dibuka/ ditutup, nanti akan dihubungkan dengan blynk agar dapat memonitoring secara remote.
